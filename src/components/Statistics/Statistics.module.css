@@ -1,0 +1,14 @@
+.statcontainer {
+    text-align: center;
+    color: #3e4d2e;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.statlist {
+    list-style: none;
+}
