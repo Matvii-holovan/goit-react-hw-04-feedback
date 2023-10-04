@@ -4,7 +4,7 @@ export default function Statistics({
   good,
   neutral,
   bad,
-  feedbackPercentage,
+  positivePercentage,
   total,
 }) {
   return (
@@ -26,7 +26,7 @@ export default function Statistics({
         <li>
           <p className={css.statitem}>
             Positive Feedback:
-            {feedbackPercentage} %
+            {positivePercentage} %
           </p>
         </li>
       </ul>
